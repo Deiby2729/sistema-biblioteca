@@ -1,0 +1,22 @@
+[
+	{ "s": "RASTREAR", "p": [29] },
+	{ "s": "REALIZA", "p": [2] },
+	{ "s": "REALIZACIÓN", "p": [2] },
+	{ "s": "REALIZAN", "p": [2] },
+	{ "s": "REALIZAR", "p": [20, 2, 19, 18, 28] },
+	{ "s": "RECIBEN", "p": [29] },
+	{ "s": "RECUPERAMOS", "p": [28, 5] },
+	{ "s": "RECUPERAR", "p": [5, 28] },
+	{ "s": "REGISTRADA", "p": [12, 11] },
+	{ "s": "REGISTRADO", "p": [28, 26, 25, 24, 17, 15, 14] },
+	{ "s": "REGISTRADOS", "p": [25, 24, 15, 11, 2] },
+	{ "s": "REGISTRAR", "p": [2, 28, 4] },
+	{ "s": "REGISTRAREMOS", "p": [28, 4] },
+	{ "s": "REGISTRARME", "p": [28] },
+	{ "s": "REGISTRATE", "p": [28] },
+	{ "s": "REGISTRO", "p": [4, 26, 17, 12, 2] },
+	{ "s": "REGISTROS", "p": [2] },
+	{ "s": "RELACIÓN", "p": [29] },
+	{ "s": "REQUERIMIENTOS", "p": [2] },
+	{ "s": "REQUIERE", "p": [2] }
+]

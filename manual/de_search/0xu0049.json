@@ -1,0 +1,16 @@
+[
+	{ "s": "IDENTIFICACIÓN", "p": [25, 24, 23] },
+	{ "s": "INCUMPLA", "p": [29] },
+	{ "s": "INDICA", "p": [26, 17, 12] },
+	{ "s": "INDICARA", "p": [20] },
+	{ "s": "INFORMACIÓN", "p": [2, 29, 28, 19, 16, 10, 4] },
+	{ "s": "INFRACCIÓN", "p": [29] },
+	{ "s": "INGRESANDO", "p": [2] },
+	{ "s": "INGRESAR", "p": [23, 14, 9, 28, 27, 22, 20, 13, 8, 6, 3, 2] },
+	{ "s": "INICIO", "p": [3, 6, 28, 27, 7] },
+	{ "s": "INSERCIÓN", "p": [2] },
+	{ "s": "INTERACTUAR", "p": [22, 18, 13, 8] },
+	{ "s": "INTERÉS", "p": [29] },
+	{ "s": "INTRODUCCION", "p": [2] },
+	{ "s": "INTRODUCIR", "p": [28, 5] }
+]
